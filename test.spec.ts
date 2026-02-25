@@ -1,5 +1,7 @@
 import { test, expect } from '@playwright/test';
 
+const usr="";
+const pwd="";
 
 test('basic test', async ({ page }) => {
   await page.goto('https://web.openrainbow.com/');
