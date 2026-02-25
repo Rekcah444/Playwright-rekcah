@@ -1,0 +1,390 @@
+- generic [active] [ref=e1]:
+  - link "x" [ref=e3] [cursor=pointer]:
+    - /url: "javascript:"
+  - text: 
+  - list [ref=e11]:
+    - listitem [ref=e12]:
+      - link " FAQ" [ref=e13] [cursor=pointer]:
+        - /url: /faq
+        - generic [ref=e14]: 
+        - text: FAQ
+    - listitem [ref=e15]:
+      - link " Contact Us" [ref=e16] [cursor=pointer]:
+        - /url: /contact-us
+        - generic [ref=e17]: 
+        - text: Contact Us
+    - listitem [ref=e18]:
+      - link " Sign In" [ref=e19] [cursor=pointer]:
+        - /url: /login
+        - generic [ref=e20]: 
+        - text: Sign In
+  - navigation [ref=e22]:
+    - generic [ref=e23]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link " 0" [ref=e27] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e28]: 
+            - generic [ref=e29]: "0"
+        - listitem [ref=e30]:
+          - link "" [ref=e31] [cursor=pointer]:
+            - /url: javascript:void(0)
+            - generic [ref=e32]: 
+          - text: 
+      - link [ref=e34] [cursor=pointer]:
+        - /url: /
+      - list [ref=e36]:
+        - listitem [ref=e37]:
+          - link "Children Books" [ref=e38] [cursor=pointer]:
+            - /url: /children-books
+        - listitem [ref=e39]:
+          - link "Teen Fiction" [ref=e40] [cursor=pointer]:
+            - /url: /teen-fiction
+        - listitem [ref=e41]:
+          - link "Fiction" [ref=e42] [cursor=pointer]:
+            - /url: /fiction
+        - listitem [ref=e43]:
+          - link "Bestselling Authors" [ref=e44] [cursor=pointer]:
+            - /url: /best-selling-authors
+        - listitem [ref=e45]:
+          - link "New Books" [ref=e46] [cursor=pointer]:
+            - /url: /new-books
+        - listitem [ref=e47]:
+          - link "All Genres" [ref=e48] [cursor=pointer]:
+            - /url: /books
+  - generic [ref=e50]:
+    - generic [ref=e51]:
+      - generic [ref=e53]:
+        - heading "Category Clear Filter" [level=4] [ref=e54]:
+          - text: Category
+          - generic [ref=e55] [cursor=pointer]: Clear Filter
+        - list [ref=e56]:
+          - listitem [ref=e57]:
+            - link "Children Books" [ref=e58] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e59]:
+            - link "Teen Fiction" [ref=e60] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e61]:
+            - link "Fiction" [ref=e62] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e63]:
+            - link "Non - Fiction" [ref=e64] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e65]:
+            - link "New Books" [ref=e66] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e67]:
+            - link "Must Read" [ref=e68] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e69]:
+            - link "Books On Offer" [ref=e70] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e71]:
+            - link "Editor's Pick" [ref=e72] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e73]:
+            - link "Biographies, Autobiographies & Memories" [ref=e74] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e75]:
+            - link "Business & Investing" [ref=e76] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e77]:
+            - link "Cooking, Food & Wine" [ref=e78] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e79]:
+            - link "History & Politics" [ref=e80] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e81]:
+            - link "Sports" [ref=e82] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e83]:
+            - link "Bestselling Authors" [ref=e84] [cursor=pointer]:
+              - /url: "javascript:"
+      - generic [ref=e86]:
+        - heading "Weight Clear Filter" [level=4] [ref=e87]:
+          - text: Weight
+          - generic [ref=e88] [cursor=pointer]: Clear Filter
+        - list [ref=e89]:
+          - listitem [ref=e90]:
+            - link "Under 100gm" [ref=e91] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e92]:
+            - link "100 - 200gm" [ref=e93] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e94]:
+            - link "200 - 500gm" [ref=e95] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e96]:
+            - link "Over 500gm" [ref=e97] [cursor=pointer]:
+              - /url: "javascript:"
+      - generic [ref=e99]:
+        - heading "Price Clear Filter" [level=4] [ref=e100]:
+          - text: Price
+          - generic [ref=e101] [cursor=pointer]: Clear Filter
+        - list [ref=e102]:
+          - listitem [ref=e103]:
+            - link "Under Rs 100" [ref=e104] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e105]:
+            - link "101 - 200" [ref=e106] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e107]:
+            - link "201 - 500" [ref=e108] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e109]:
+            - link "Over 500" [ref=e110] [cursor=pointer]:
+              - /url: "javascript:"
+      - generic [ref=e112]:
+        - heading "Collection Clear Filter" [level=4] [ref=e113]:
+          - text: Collection
+          - generic [ref=e114] [cursor=pointer]: Clear Filter
+        - list [ref=e115]:
+          - listitem [ref=e116]:
+            - link "Premium Books" [ref=e117] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e118]:
+            - link "Classic Books" [ref=e119] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e120]:
+            - link "Standard Books" [ref=e121] [cursor=pointer]:
+              - /url: "javascript:"
+          - listitem [ref=e122]:
+            - link "New Books" [ref=e123] [cursor=pointer]:
+              - /url: "javascript:"
+      - generic [ref=e125]:
+        - heading "Author Clear Filter" [level=4] [ref=e126]:
+          - text: Author
+          - generic [ref=e127] [cursor=pointer]: Clear Filter
+        - list [ref=e128]:
+          - listitem [ref=e129]:
+            - checkbox [ref=e130]
+            - generic [ref=e131] [cursor=pointer]: James Patterson
+          - listitem [ref=e132]:
+            - checkbox [ref=e133]
+            - generic [ref=e134] [cursor=pointer]: Daniel Steel
+          - listitem [ref=e135]:
+            - checkbox [ref=e136]
+            - generic [ref=e137] [cursor=pointer]: Gillian Flynn
+          - listitem [ref=e138]:
+            - checkbox [ref=e139]
+            - generic [ref=e140] [cursor=pointer]: Jodi Picoult
+          - listitem [ref=e141]:
+            - checkbox [ref=e142]
+            - generic [ref=e143] [cursor=pointer]: Lee Child
+          - listitem [ref=e144]:
+            - checkbox [ref=e145]
+            - generic [ref=e146] [cursor=pointer]: Jane Austen
+          - listitem [ref=e147]:
+            - checkbox [ref=e148]
+            - generic [ref=e149] [cursor=pointer]: Charles Dickens
+          - listitem [ref=e150]:
+            - checkbox [ref=e151]
+            - generic [ref=e152] [cursor=pointer]: Martina Cole
+          - listitem [ref=e153]:
+            - checkbox [ref=e154]
+            - generic [ref=e155] [cursor=pointer]: Karen Rose
+          - listitem [ref=e156]:
+            - checkbox [ref=e157]
+            - generic [ref=e158] [cursor=pointer]: Wilbur Smith
+          - listitem [ref=e159]:
+            - checkbox [ref=e160]
+            - generic [ref=e161] [cursor=pointer]: Stieg Larsson
+          - textbox "Author" [ref=e162]
+    - generic [ref=e164]:
+      - heading "Books" [level=1] [ref=e166]
+      - combobox [ref=e168] [cursor=pointer]:
+        - option "Relevance" [selected]
+        - 'option "Price: Low to High"'
+        - 'option "Price: High to Low"'
+        - 'option "Weight: Low to High"'
+        - 'option "Weight: High to Low"'
+      - generic:
+        - generic [ref=e245] [cursor=pointer]:
+          - img "Burn Book-by-Kara Swisher" [ref=e247]
+          - heading "Burn Book" [level=3] [ref=e248]
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - text: 416 gm
+              - paragraph [ref=e252]:
+                - text: ₹ 208
+                - generic [ref=e253]: ₹ 550
+            - link "Add to Cart" [ref=e255]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e256]
+        - generic [ref=e259] [cursor=pointer]:
+          - img "Releasing Your Church to Grow -by-David Beer" [ref=e261]
+          - heading "Releasing Your Church to Grow" [level=3] [ref=e262]
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - text: 124 gm
+              - paragraph [ref=e266]:
+                - text: ₹ 62
+                - generic [ref=e267]: ₹ 299
+            - link "Add to Cart" [ref=e269]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e270]
+        - generic [ref=e273] [cursor=pointer]:
+          - img "I've Had Troubles, Too ... So I Brought You this Book-by- Keith Fallon" [ref=e275]
+          - heading "I've Had Troubles, Too ... So I Brought You this Book" [level=3] [ref=e276]
+          - generic [ref=e278]:
+            - generic [ref=e279]:
+              - text: 148 gm
+              - paragraph [ref=e280]:
+                - text: ₹ 74
+                - generic [ref=e281]: ₹ 350
+            - link "Add to Cart" [ref=e283]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e284]
+        - generic [ref=e287] [cursor=pointer]:
+          - img "Livid-by-Patricia Cornwell" [ref=e289]
+          - heading "Livid" [level=3] [ref=e290]
+          - generic [ref=e292]:
+            - generic [ref=e293]:
+              - text: 466 gm
+              - paragraph [ref=e294]:
+                - text: ₹ 186
+                - generic [ref=e295]: ₹ 550
+            - link "Add to Cart" [ref=e297]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e298]
+        - generic [ref=e301] [cursor=pointer]:
+          - img "Prototype and Dream Cars -by-Dewar McLINTOCK" [ref=e303]
+          - heading "Prototype and Dream Cars" [level=3] [ref=e304]
+          - generic [ref=e306]:
+            - generic [ref=e307]:
+              - text: 774 gm
+              - paragraph [ref=e308]:
+                - text: ₹ 386
+                - generic [ref=e309]: ₹ 1299
+            - link "Add to Cart" [ref=e311]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e312]
+        - generic [ref=e315] [cursor=pointer]:
+          - img "Life behind the Great Wall (Journeys into the past)-by- Gila Falkus" [ref=e317]
+          - heading "Life behind the Great Wall (Journeys into the past)" [level=3] [ref=e318]
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - text: 907 gm
+              - paragraph [ref=e322]:
+                - text: ₹ 450
+                - generic [ref=e323]: ₹ 1250
+            - link "Add to Cart" [ref=e325]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e326]
+        - generic [ref=e329] [cursor=pointer]:
+          - img "The Skeptics' Guide to the Future-by-Steven Novella" [ref=e331]
+          - heading "The Skeptics' Guide to the Future" [level=3] [ref=e332]
+          - generic [ref=e334]:
+            - generic [ref=e335]:
+              - text: 315 gm
+              - paragraph [ref=e336]:
+                - text: ₹ 249
+                - generic [ref=e337]: ₹ 799
+            - link "Add to Cart" [ref=e339]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e340]
+        - generic [ref=e343] [cursor=pointer]:
+          - img "Angus, Thongs and Full-frontal Snogging-by-Louise Rennison" [ref=e345]
+          - heading "Angus, Thongs and Full-frontal Snogging" [level=3] [ref=e346]
+          - generic [ref=e348]:
+            - generic [ref=e349]:
+              - text: 187 gm
+              - paragraph [ref=e350]:
+                - text: ₹ 75
+                - generic [ref=e351]: ₹ 75
+            - link "Add to Cart" [ref=e353]:
+              - /url: javascript:;
+              - img "Add to Cart" [ref=e354]
+  - text: 
+  - contentinfo [ref=e173]:
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - heading "Books By Kilo" [level=1] [ref=e177]
+        - heading "Spend less. Read more." [level=2] [ref=e178]:
+          - text: Spend less.
+          - strong [ref=e179]: Read more.
+        - list [ref=e180]:
+          - listitem [ref=e181]:
+            - link "" [ref=e182] [cursor=pointer]:
+              - /url: https://www.facebook.com/booksbykiloindia
+              - generic [ref=e183]: 
+          - listitem [ref=e184]:
+            - link "" [ref=e185] [cursor=pointer]:
+              - /url: https://twitter.com/BooksByKilo
+              - generic [ref=e186]: 
+          - listitem [ref=e187]:
+            - link "" [ref=e188] [cursor=pointer]:
+              - /url: https://in.pinterest.com/bbykilo/
+              - generic [ref=e189]: 
+          - listitem [ref=e190]:
+            - link "" [ref=e191] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/booksbykilo/
+              - generic [ref=e192]: 
+          - listitem [ref=e193]:
+            - link "" [ref=e194] [cursor=pointer]:
+              - /url: https://www.instagram.com/booksbykilo
+              - generic [ref=e195]: 
+          - listitem [ref=e196]:
+            - link "" [ref=e197] [cursor=pointer]:
+              - /url: https://plus.google.com/114197323571277792136
+              - generic [ref=e198]: 
+      - generic [ref=e199]:
+        - heading "Information" [level=4] [ref=e200]
+        - list [ref=e201]:
+          - listitem [ref=e202]:
+            - link "About Us" [ref=e203] [cursor=pointer]:
+              - /url: /about-us
+          - listitem [ref=e204]:
+            - link "Disclaimer" [ref=e205] [cursor=pointer]:
+              - /url: /disclaimer
+          - listitem [ref=e206]:
+            - link "Terms And Conditions" [ref=e207] [cursor=pointer]:
+              - /url: /terms-and-conditions
+          - listitem [ref=e208]:
+            - link "Privacy Policy" [ref=e209] [cursor=pointer]:
+              - /url: /privacy-policy
+          - listitem [ref=e210]:
+            - link "Cancellation Policy" [ref=e211] [cursor=pointer]:
+              - /url: /cancellation-policy
+      - generic [ref=e212]:
+        - heading "Quick Links" [level=4] [ref=e213]
+        - list [ref=e214]:
+          - listitem [ref=e215]:
+            - link "Bulk Purchase" [ref=e216] [cursor=pointer]:
+              - /url: /bulk-purchase
+          - listitem [ref=e217]:
+            - link "Get Franchise" [ref=e218] [cursor=pointer]:
+              - /url: /franchise
+          - listitem [ref=e219]:
+            - link "Rent Library" [ref=e220] [cursor=pointer]:
+              - /url: /rent-a-library
+          - listitem [ref=e221]:
+            - link "Surprise Stack" [ref=e222] [cursor=pointer]:
+              - /url: /surprise-stack
+      - generic [ref=e223]:
+        - heading "customer" [level=4] [ref=e224]
+        - list [ref=e225]:
+          - listitem [ref=e226]:
+            - link "My Orders" [ref=e227] [cursor=pointer]:
+              - /url: /orders
+          - listitem [ref=e228]:
+            - link "Contact Us" [ref=e229] [cursor=pointer]:
+              - /url: /contact-us
+      - generic [ref=e230]:
+        - heading "Support Center" [level=4] [ref=e231]
+        - list [ref=e232]:
+          - listitem [ref=e233]:
+            - link "+91 88286 87287" [ref=e234] [cursor=pointer]:
+              - /url: tel:08828687287
+          - listitem [ref=e235]:
+            - link "support@booksbykilo.in" [ref=e236] [cursor=pointer]:
+              - /url: mailto:support@booksbykilo.in
+          - listitem [ref=e237]:
+            - link "Bulk Purchase" [ref=e238] [cursor=pointer]:
+              - /url: /bulk-purchase
+          - listitem [ref=e239]:
+            - link "FAQ" [ref=e240] [cursor=pointer]:
+              - /url: /faq
+    - separator [ref=e241]
+    - generic [ref=e242]: Books By Kilo. All Right Reserved.

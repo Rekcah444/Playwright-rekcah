@@ -1,0 +1,33 @@
+[   14139ms] [WARNING] The ScriptProcessorNode is deprecated. Use AudioWorkletNode instead. (https://bit.ly/audio-worklet) @ https://am-assets.pl/js/release-offer.js?modified=1771852778:6
+[   15069ms] [WARNING] [GSI_LOGGER]: Relative login_uri was provided. Use absolute url instead. Relative login_uri may be considered invalid in the future. @ https://accounts.google.com/gsi/client:80
+[   20512ms] [ERROR] Access to fetch at 'https://aftermarket.helpcrunch.com/time' from origin 'https://www.aftermarket.pl' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ about:blank:0
+[   20514ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://aftermarket.helpcrunch.com/time:0
+[   20517ms] Uncaught (in promise) TypeError: Failed to fetch
+    at send (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:107900)
+    at get (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:108070)
+    at sync (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:647721)
+    at rr (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:718532)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:131172)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:722424)
+    at Ls (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:566560)
+    at t.unstable_runWithPriority (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:590571)
+    at Za (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:507161)
+    at Bs (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:566023)
+    at ws (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:557551)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:507384)
+    at t.unstable_runWithPriority (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:590571)
+    at Za (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:507161)
+    at Ya (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:507329)
+    at Ga (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:507264)
+    at fs (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:555031)
+    at Ao (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:526761)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:723501)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:660084)
+    at invokeHandler (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:658308)
+    at emit (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:658826)
+    at set (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:660357)
+    at i (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:72254)
+    at o (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:46209)
+    at setLocalization (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:726276)
+    at setPhraseList (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:740206)
+    at <anonymous> (https://widget.helpcrunch.com/sdk-code._4svyzdfn1.js:1:738649)

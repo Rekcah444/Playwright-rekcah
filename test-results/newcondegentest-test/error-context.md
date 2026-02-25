@@ -1,0 +1,991 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - button "Skip navigation" [ref=e3] [cursor=pointer]
+    - button "Go to main content" [ref=e4] [cursor=pointer]
+    - button "Skip to details" [ref=e5] [cursor=pointer]
+    - banner [ref=e6]:
+      - heading "Welcome to Rainbow" [level=1] [ref=e7]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - button "Follow your channels" [ref=e12] [cursor=pointer]:
+                - img [ref=e14]
+                - generic [ref=e16]: Follow your channels
+            - listitem [ref=e17]:
+              - button "Collaborate with bubbles" [ref=e18] [cursor=pointer]:
+                - img [ref=e20]
+                - generic [ref=e22]: Collaborate with bubbles
+            - listitem [ref=e23]:
+              - button "Manage your contacts" [ref=e24] [cursor=pointer]:
+                - img [ref=e26]
+                - generic [ref=e28]: Manage your contacts
+            - listitem [ref=e29]:
+              - button "Your calls" [ref=e30] [cursor=pointer]:
+                - img [ref=e32]
+                - generic [ref=e34]: Your calls
+            - listitem [ref=e35]:
+              - button "Your files" [ref=e36] [cursor=pointer]:
+                - img [ref=e38]
+                - generic [ref=e40]: Your files
+            - listitem [ref=e41]:
+              - button "Tasks" [ref=e42] [cursor=pointer]:
+                - img [ref=e44]
+                - generic [ref=e46]: Tasks
+            - listitem [ref=e47]:
+              - button "Contains unread elements What's new" [ref=e48] [cursor=pointer]:
+                - img [ref=e50]
+                - paragraph [ref=e53]: Contains unread elements
+                - generic [ref=e54]: What's new
+            - listitem [ref=e55]:
+              - button "Help Center" [ref=e56] [cursor=pointer]:
+                - img [ref=e58]
+                - generic [ref=e60]: Help Center
+      - 'button "Piraveenkumar M Presence : Invisible Profile, settings and support" [ref=e66] [cursor=pointer]':
+        - generic [ref=e67]:
+          - generic [ref=e68]: Piraveenkumar M
+          - generic [ref=e69]:
+            - generic [ref=e70]: "Presence : Invisible"
+            - img [ref=e72]
+        - generic [ref=e74]: Profile, settings and support
+    - generic [ref=e76]:
+      - generic [ref=e77]:
+        - paragraph [ref=e78]
+        - search [ref=e81]:
+          - img [ref=e83]
+          - generic [ref=e85]: People, bubbles...
+          - textbox "People, bubbles..." [ref=e86]
+        - generic [ref=e87]:
+          - generic [ref=e88] [cursor=pointer]:
+            - button "Reduce panel Favorites" [ref=e89]:
+              - img [ref=e91]
+            - heading "Favorites" [level=2] [ref=e93]:
+              - generic [ref=e94]: Favorites
+          - list "Favorites" [ref=e96]:
+            - listitem [ref=e97] [cursor=pointer]:
+              - 'button "Open the conversation Ramya Udiyana Presence : Online on Mobile" [ref=e98]':
+                - generic [ref=e99]: Open the conversation
+                - generic [ref=e100]:
+                  - generic [ref=e101]: Ramya Udiyana
+                  - generic [ref=e102]:
+                    - generic [ref=e103]: "Presence : Online on Mobile"
+                    - img [ref=e105]
+        - region [ref=e107]:
+          - generic [ref=e109] [cursor=pointer]:
+            - button "Reduce panel Recent conversations" [ref=e110]:
+              - img [ref=e112]
+            - heading "Recent conversations" [level=2] [ref=e114]:
+              - generic [ref=e115]: Recent conversations
+          - list "Recent conversations" [ref=e116]:
+            - listitem [ref=e117]:
+              - generic [ref=e119] [cursor=pointer]:
+                - generic [ref=e120]:
+                  - generic [ref=e121]: Hemalatha Saminathan
+                  - generic [ref=e122]:
+                    - generic [ref=e123]: "Presence : Online on Mobile"
+                    - img [ref=e125]
+                - generic [ref=e127]:
+                  - button "Open the conversation Hemalatha Saminathan":
+                    - generic: Open the conversation
+                    - generic: Hemalatha Saminathan
+                  - paragraph: "Me: hi hema"
+                - button "Close the conversation Hemalatha Saminathan" [ref=e129]:
+                  - generic [ref=e130]: Close the conversation Hemalatha Saminathan
+                  - img [ref=e132]
+            - listitem [ref=e134]:
+              - generic [ref=e136] [cursor=pointer]:
+                - generic [ref=e138]:
+                  - text: ∅
+                  - generic [ref=e139]: CHN_PQA_DEV
+                - generic [ref=e140]:
+                  - button "Open bubble CHN_PQA_DEV":
+                    - generic: Open bubble
+                    - generic: CHN_PQA_DEV
+                  - paragraph: Message deleted
+                - button "Close the conversation CHN_PQA_DEV" [ref=e142]:
+                  - generic [ref=e143]: Close the conversation CHN_PQA_DEV
+                  - img [ref=e145]
+            - listitem [ref=e147]:
+              - generic [ref=e149] [cursor=pointer]:
+                - generic [ref=e150]:
+                  - generic [ref=e151]: Jayakrishnan K
+                  - generic [ref=e152]:
+                    - generic [ref=e153]: "Presence : Online on Mobile"
+                    - img [ref=e155]
+                - generic [ref=e157]:
+                  - button "Open the conversation Jayakrishnan K":
+                    - generic: Open the conversation
+                    - generic: Jayakrishnan K
+                  - paragraph: "Me: https://al-enterprise.youtrack.cloud/issue/CROXE-42142/OXE-N5unable-to-log-in-OXE-as-mtcl-user-after-updating-delivery-n5.211."
+                - generic [ref=e158]:
+                  - button "Call" [ref=e163]:
+                    - generic [ref=e164]:
+                      - img [ref=e166]
+                      - generic [ref=e168]: Call
+                  - button "Close the conversation Jayakrishnan K" [ref=e169]:
+                    - generic [ref=e170]: Close the conversation Jayakrishnan K
+                    - img [ref=e172]
+            - listitem [ref=e174]:
+              - generic [ref=e176] [cursor=pointer]:
+                - generic [ref=e177]:
+                  - generic [ref=e178]: Rajkumar Vasu
+                  - generic [ref=e179]:
+                    - generic [ref=e180]: "Presence : Online on Mobile"
+                    - img [ref=e182]
+                - generic [ref=e184]:
+                  - button "Open the conversation Rajkumar Vasu":
+                    - generic: Open the conversation
+                    - generic:
+                      - img
+                    - generic: Rajkumar Vasu
+                  - paragraph: 3 rd node la matum runtel kudukanum login achuna
+                - generic [ref=e185]:
+                  - button "Call" [ref=e190]:
+                    - generic [ref=e191]:
+                      - img [ref=e193]
+                      - generic [ref=e195]: Call
+                  - button "Close the conversation Rajkumar Vasu" [ref=e196]:
+                    - generic [ref=e197]: Close the conversation Rajkumar Vasu
+                    - img [ref=e199]
+            - listitem [ref=e201]:
+              - generic [ref=e203] [cursor=pointer]:
+                - generic [ref=e204]:
+                  - generic [ref=e205]: Dhivakaran Siva
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: "Presence : Online"
+                    - img [ref=e209]
+                - generic [ref=e211]:
+                  - button "Open the conversation Dhivakaran Siva":
+                    - generic: Open the conversation
+                    - generic: Dhivakaran Siva
+                  - paragraph: "Me: okay"
+                - generic [ref=e212]:
+                  - button "Call" [ref=e217]:
+                    - generic [ref=e218]:
+                      - img [ref=e220]
+                      - generic [ref=e222]: Call
+                  - button "Close the conversation Dhivakaran Siva" [ref=e223]:
+                    - generic [ref=e224]: Close the conversation Dhivakaran Siva
+                    - img [ref=e226]
+            - listitem [ref=e228]:
+              - generic [ref=e230] [cursor=pointer]:
+                - generic [ref=e231]:
+                  - generic [ref=e232]: Sahithi Avula
+                  - generic [ref=e233]:
+                    - generic [ref=e234]: "Presence : Do not disturb"
+                    - img [ref=e236]
+                - generic [ref=e238]:
+                  - button "Open the conversation Sahithi Avula":
+                    - generic: Open the conversation
+                    - generic: Sahithi Avula
+                  - paragraph: Scrum meeting:scrum call/stand call/daily meeting. Meeting conducted by scrum master everyday 15 mins. Called as scrum call/standup meeting. If developer/tester not completed something, scrum master will take care. In the meeting, everyone tell what are the task they completed yesterday. what are the task planned today and what are task for tomorrow. If they is any blocker facing means you have to clearly discuss in that meeting.
+                - button "Close the conversation Sahithi Avula" [ref=e240]:
+                  - generic [ref=e241]: Close the conversation Sahithi Avula
+                  - img [ref=e243]
+            - listitem [ref=e245]:
+              - generic [ref=e247] [cursor=pointer]:
+                - generic [ref=e254]: 5_QA_Piraveen
+                - generic [ref=e255]:
+                  - button "Open bubble 5_QA_Piraveen":
+                    - generic: Open bubble
+                    - generic: 5_QA_Piraveen
+                  - paragraph: "Me: okay ."
+                - button "Close the conversation 5_QA_Piraveen" [ref=e257]:
+                  - generic [ref=e258]: Close the conversation 5_QA_Piraveen
+                  - img [ref=e260]
+            - listitem [ref=e262]:
+              - generic [ref=e264] [cursor=pointer]:
+                - generic [ref=e266]: Siddharth Pillai
+                - generic [ref=e267]:
+                  - button "Open the conversation Siddharth Pillai":
+                    - generic: Open the conversation
+                    - generic: Siddharth Pillai
+                  - paragraph: vm also if you can take snapshot and keep that may be useful
+                - button "Close the conversation Siddharth Pillai" [ref=e269]:
+                  - generic [ref=e270]: Close the conversation Siddharth Pillai
+                  - img [ref=e272]
+            - listitem [ref=e274]:
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e277]:
+                  - generic [ref=e278]: Ramya Udiyana
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: "Presence : Online on Mobile"
+                    - img [ref=e282]
+                - generic [ref=e284]:
+                  - button "Open the conversation Ramya Udiyana":
+                    - generic: Open the conversation
+                    - generic: Ramya Udiyana
+                  - paragraph: now u can use the node
+                - generic [ref=e285]:
+                  - button "Call" [ref=e290]:
+                    - generic [ref=e291]:
+                      - img [ref=e293]
+                      - generic [ref=e295]: Call
+                  - button "Close the conversation Ramya Udiyana" [ref=e296]:
+                    - generic [ref=e297]: Close the conversation Ramya Udiyana
+                    - img [ref=e299]
+            - listitem [ref=e301]:
+              - generic [ref=e303] [cursor=pointer]:
+                - generic [ref=e305]: SundaraRajan Pitchai
+                - generic [ref=e306]:
+                  - button "Open the conversation SundaraRajan Pitchai":
+                    - generic: Open the conversation
+                    - generic: SundaraRajan Pitchai
+                  - paragraph: "Me: okay sundar"
+                - generic [ref=e307]:
+                  - button "Call" [ref=e312]:
+                    - generic [ref=e313]:
+                      - img [ref=e315]
+                      - generic [ref=e317]: Call
+                  - button "Close the conversation SundaraRajan Pitchai" [ref=e318]:
+                    - generic [ref=e319]: Close the conversation SundaraRajan Pitchai
+                    - img [ref=e321]
+            - listitem [ref=e323]:
+              - generic [ref=e325] [cursor=pointer]:
+                - generic [ref=e332]: SW & QA - RQOXE-894 Tool to renew SSH keys in OXE network
+                - generic [ref=e333]:
+                  - button "Open bubble SW & QA - RQOXE-894 Tool to renew SSH keys in OXE network":
+                    - generic: Open bubble
+                    - generic: SW & QA - RQOXE-894 Tool to renew SSH keys in OXE network
+                  - paragraph: Saranya T has ended the conference
+                - button "Close the conversation SW & QA - RQOXE-894 Tool to renew SSH keys in OXE network" [ref=e335]:
+                  - generic [ref=e336]: Close the conversation SW & QA - RQOXE-894 Tool to renew SSH keys in OXE network
+                  - img [ref=e338]
+            - listitem [ref=e340]:
+              - generic [ref=e342] [cursor=pointer]:
+                - generic [ref=e343]:
+                  - generic [ref=e344]: Vignesh Neelakandan
+                  - generic [ref=e345]:
+                    - generic [ref=e346]: "Presence : Online on Mobile"
+                    - img [ref=e348]
+                - generic [ref=e350]:
+                  - button "Open the conversation Vignesh Neelakandan":
+                    - generic: Open the conversation
+                    - generic: Vignesh Neelakandan
+                  - paragraph: "Me: carry on"
+                - generic [ref=e351]:
+                  - button "Call" [ref=e356]:
+                    - generic [ref=e357]:
+                      - img [ref=e359]
+                      - generic [ref=e361]: Call
+                  - button "Close the conversation Vignesh Neelakandan" [ref=e362]:
+                    - generic [ref=e363]: Close the conversation Vignesh Neelakandan
+                    - img [ref=e365]
+            - listitem [ref=e367]:
+              - generic [ref=e369] [cursor=pointer]:
+                - generic [ref=e370]:
+                  - generic [ref=e371]: Pavithran SOUNDRAPANDIAN
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: "Presence : Online on Mobile"
+                    - img [ref=e375]
+                - generic [ref=e377]:
+                  - button "Open the conversation Pavithran SOUNDRAPANDIAN":
+                    - generic: Open the conversation
+                    - generic: Pavithran SOUNDRAPANDIAN
+                  - paragraph: "Me: https://testrail.ale-international.com/index.php?/runs/view/35384&group_by=cases:section_id&group_order=asc"
+                - button "Close the conversation Pavithran SOUNDRAPANDIAN" [ref=e379]:
+                  - generic [ref=e380]: Close the conversation Pavithran SOUNDRAPANDIAN
+                  - img [ref=e382]
+            - listitem [ref=e384]:
+              - generic [ref=e386] [cursor=pointer]:
+                - generic [ref=e388]: Muthukumarakrishnan Rajagopal
+                - generic [ref=e389]:
+                  - button "Open the conversation Muthukumarakrishnan Rajagopal":
+                    - generic: Open the conversation
+                    - generic: Muthukumarakrishnan Rajagopal
+                  - paragraph: "Me: Hannah is asking status of the test cases review muthu sorry for asking i don't know what i have to do"
+                - button "Close the conversation Muthukumarakrishnan Rajagopal" [ref=e391]:
+                  - generic [ref=e392]: Close the conversation Muthukumarakrishnan Rajagopal
+                  - img [ref=e394]
+            - listitem [ref=e396]:
+              - generic [ref=e398] [cursor=pointer]:
+                - generic [ref=e400]: Neha S
+                - generic [ref=e401]:
+                  - button "Open the conversation Neha S":
+                    - generic: Open the conversation
+                    - generic: Neha S
+                  - paragraph: ok anna
+                - button "Close the conversation Neha S" [ref=e403]:
+                  - generic [ref=e404]: Close the conversation Neha S
+                  - img [ref=e406]
+            - listitem [ref=e408]:
+              - generic [ref=e410] [cursor=pointer]:
+                - generic [ref=e412]: Ananthi Mayandi
+                - generic [ref=e413]:
+                  - button "Open the conversation Ananthi Mayandi":
+                    - generic: Open the conversation
+                    - generic: Ananthi Mayandi
+                  - paragraph: "You transferred: CROXE-41898 Alpha - OXE N5 - Trouble to update internal server certificates signed by an external PKI"
+                - button "Close the conversation Ananthi Mayandi" [ref=e415]:
+                  - generic [ref=e416]: Close the conversation Ananthi Mayandi
+                  - img [ref=e418]
+            - listitem [ref=e420]:
+              - generic [ref=e422] [cursor=pointer]:
+                - generic [ref=e424]: DayanaSharani JohnPeter
+                - generic [ref=e425]:
+                  - button "Open the conversation DayanaSharani JohnPeter":
+                    - generic: Open the conversation
+                    - generic: DayanaSharani JohnPeter
+                  - paragraph: Missed call
+                - button "Close the conversation DayanaSharani JohnPeter" [ref=e427]:
+                  - generic [ref=e428]: Close the conversation DayanaSharani JohnPeter
+                  - img [ref=e430]
+            - listitem [ref=e432]:
+              - generic [ref=e434] [cursor=pointer]:
+                - generic [ref=e435]:
+                  - generic [ref=e436]: Sathya Narayanan
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: "Presence : Online on Mobile"
+                    - img [ref=e440]
+                - generic [ref=e442]:
+                  - button "Open the conversation Sathya Narayanan":
+                    - generic: Open the conversation
+                    - generic: Sathya Narayanan
+                  - paragraph: "Me: okay tq"
+                - button "Close the conversation Sathya Narayanan" [ref=e444]:
+                  - generic [ref=e445]: Close the conversation Sathya Narayanan
+                  - img [ref=e447]
+            - listitem [ref=e449]:
+              - generic [ref=e451] [cursor=pointer]:
+                - generic [ref=e452]:
+                  - generic [ref=e453]: Ranjith kumar R
+                  - generic [ref=e454]:
+                    - generic [ref=e455]: "Presence : Online on Mobile"
+                    - img [ref=e457]
+                - generic [ref=e459]:
+                  - button "Open the conversation Ranjith kumar R":
+                    - generic: Open the conversation
+                    - generic: Ranjith kumar R
+                  - paragraph: VSCodeUserSetup-x64-1.83.0.exe
+                - button "Close the conversation Ranjith kumar R" [ref=e461]:
+                  - generic [ref=e462]: Close the conversation Ranjith kumar R
+                  - img [ref=e464]
+            - listitem [ref=e466]:
+              - generic [ref=e468] [cursor=pointer]:
+                - generic [ref=e469]:
+                  - generic [ref=e470]: Anand Narasimha
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: "Presence : Online"
+                    - img [ref=e474]
+                - generic [ref=e476]:
+                  - button "Open the conversation Anand Narasimha":
+                    - generic: Open the conversation
+                    - generic: Anand Narasimha
+                  - paragraph: https://aleinternational.sharepoint.com/:u:/r/sites/tcstools/Tools_Docs_TCS_Users_Chennai/Approved_Softwares_TCS-ALE/Visual%20Studio%20Code/VSCodeUserSetup-x64-1.85.1.exe?csf=1&web=1&e=8aJTzA
+                - generic [ref=e477]:
+                  - button "Call" [ref=e482]:
+                    - generic [ref=e483]:
+                      - img [ref=e485]
+                      - generic [ref=e487]: Call
+                  - button "Close the conversation Anand Narasimha" [ref=e488]:
+                    - generic [ref=e489]: Close the conversation Anand Narasimha
+                    - img [ref=e491]
+            - listitem [ref=e493]:
+              - generic [ref=e495] [cursor=pointer]:
+                - generic [ref=e496]:
+                  - generic [ref=e497]: Gwenael RANNOU
+                  - generic [ref=e498]:
+                    - generic [ref=e499]: "Presence : Offline"
+                    - img [ref=e501]
+                - generic [ref=e503]:
+                  - button "Open the conversation Gwenael RANNOU":
+                    - generic: Open the conversation
+                    - generic: Gwenael RANNOU
+                  - paragraph: "Me: hi"
+                - button "Close the conversation Gwenael RANNOU" [ref=e505]:
+                  - generic [ref=e506]: Close the conversation Gwenael RANNOU
+                  - img [ref=e508]
+            - listitem [ref=e510]:
+              - generic [ref=e512] [cursor=pointer]:
+                - generic [ref=e514]: Piraveenkumar M
+                - generic [ref=e515]:
+                  - button "Open the conversation Piraveenkumar M":
+                    - generic: Open the conversation
+                    - generic: Piraveenkumar M
+                  - paragraph: "Me: Subject: Apology for Missing Interview – Request to Reschedule Dear [Manager’s Name], I hope you are doing well. I would like to sincerely apologize for missing the interview scheduled on Saturday, [date]. Due to an unexpected situation, I was unable to join at the scheduled time, and I regret not informing you in advance. I am very enthusiastic about the opportunity and would truly appreciate it if the interview could be rescheduled at your convenience. I assure you that this will not happen again. Thank you for your time and understanding. I look forward to hearing from you. Kind regards, Piraveenkumar"
+                - button "Close the conversation Piraveenkumar M" [ref=e517]:
+                  - generic [ref=e518]: Close the conversation Piraveenkumar M
+                  - img [ref=e520]
+            - listitem [ref=e522]:
+              - generic [ref=e524] [cursor=pointer]:
+                - generic [ref=e526]: Menaga S
+                - generic [ref=e527]:
+                  - button "Open the conversation Menaga S":
+                    - generic: Open the conversation
+                    - generic: Menaga S
+                  - paragraph: "Me: okay will check"
+                - generic [ref=e528]:
+                  - button "Call" [ref=e533]:
+                    - generic [ref=e534]:
+                      - img [ref=e536]
+                      - generic [ref=e538]: Call
+                  - button "Close the conversation Menaga S" [ref=e539]:
+                    - generic [ref=e540]: Close the conversation Menaga S
+                    - img [ref=e542]
+            - listitem [ref=e544]:
+              - generic [ref=e546] [cursor=pointer]:
+                - generic [ref=e548]: Subhalakshmi Veerabahu
+                - generic [ref=e549]:
+                  - button "Open the conversation Subhalakshmi Veerabahu":
+                    - generic: Open the conversation
+                    - generic: Subhalakshmi Veerabahu
+                  - paragraph: "Me: 🤩🤩👍"
+                - button "Close the conversation Subhalakshmi Veerabahu" [ref=e551]:
+                  - generic [ref=e552]: Close the conversation Subhalakshmi Veerabahu
+                  - img [ref=e554]
+            - listitem [ref=e556]:
+              - generic [ref=e558] [cursor=pointer]:
+                - generic [ref=e560]: Raavi Vijaykrishna
+                - generic [ref=e561]:
+                  - button "Open the conversation Raavi Vijaykrishna":
+                    - generic: Open the conversation
+                    - generic: Raavi Vijaykrishna
+                  - paragraph: "Me: .sendall -i 1125 1-"
+                - button "Close the conversation Raavi Vijaykrishna" [ref=e563]:
+                  - generic [ref=e564]: Close the conversation Raavi Vijaykrishna
+                  - img [ref=e566]
+            - listitem [ref=e568]:
+              - generic [ref=e570] [cursor=pointer]:
+                - generic [ref=e571]:
+                  - generic [ref=e572]: Sujithkumar Jothikumar
+                  - generic [ref=e573]:
+                    - generic [ref=e574]: "Presence : Online"
+                    - img [ref=e576]
+                - generic [ref=e578]:
+                  - button "Open the conversation Sujithkumar Jothikumar":
+                    - generic: Open the conversation
+                    - generic: Sujithkumar Jothikumar
+                  - paragraph: Hello Bro,
+                - button "Close the conversation Sujithkumar Jothikumar" [ref=e580]:
+                  - generic [ref=e581]: Close the conversation Sujithkumar Jothikumar
+                  - img [ref=e583]
+            - listitem [ref=e585]:
+              - generic [ref=e587] [cursor=pointer]:
+                - generic [ref=e588]:
+                  - generic [ref=e589]: Ganesan Esakkiappan
+                  - generic [ref=e590]:
+                    - generic [ref=e591]: "Presence : Online on Mobile"
+                    - img [ref=e593]
+                - generic [ref=e595]:
+                  - button "Open the conversation Ganesan Esakkiappan":
+                    - generic: Open the conversation
+                    - generic: Ganesan Esakkiappan
+                  - paragraph: "Me: Hmm raj da mattum kettukonga"
+                - button "Close the conversation Ganesan Esakkiappan" [ref=e597]:
+                  - generic [ref=e598]: Close the conversation Ganesan Esakkiappan
+                  - img [ref=e600]
+            - listitem [ref=e602]:
+              - generic [ref=e604] [cursor=pointer]:
+                - generic [ref=e605]:
+                  - generic [ref=e606]: Lokesh KariamGopi
+                  - generic [ref=e607]:
+                    - generic [ref=e608]: "Presence : Online"
+                    - img [ref=e610]
+                - generic [ref=e612]:
+                  - button "Open the conversation Lokesh KariamGopi":
+                    - generic: Open the conversation
+                    - generic: Lokesh KariamGopi
+                  - paragraph: ok
+                - button "Close the conversation Lokesh KariamGopi" [ref=e614]:
+                  - generic [ref=e615]: Close the conversation Lokesh KariamGopi
+                  - img [ref=e617]
+            - listitem [ref=e619]:
+              - generic [ref=e621] [cursor=pointer]:
+                - generic [ref=e622]:
+                  - generic [ref=e623]: Pooja Thangamani
+                  - generic [ref=e624]:
+                    - generic [ref=e625]: "Presence : Online on Mobile"
+                    - img [ref=e627]
+                - generic [ref=e629]:
+                  - button "Open the conversation Pooja Thangamani":
+                    - generic: Open the conversation
+                    - generic: Pooja Thangamani
+                  - paragraph: "You modified: Welcome1$"
+                - button "Close the conversation Pooja Thangamani" [ref=e631]:
+                  - generic [ref=e632]: Close the conversation Pooja Thangamani
+                  - img [ref=e634]
+            - listitem [ref=e636]:
+              - generic [ref=e638] [cursor=pointer]:
+                - generic [ref=e639]:
+                  - generic [ref=e640]: Vignesh Chandran
+                  - generic [ref=e641]:
+                    - generic [ref=e642]: "Presence : Online on Mobile"
+                    - img [ref=e644]
+                - generic [ref=e646]:
+                  - button "Open the conversation Vignesh Chandran":
+                    - generic: Open the conversation
+                    - generic: Vignesh Chandran
+                  - paragraph: Message deleted
+                - button "Close the conversation Vignesh Chandran" [ref=e648]:
+                  - generic [ref=e649]: Close the conversation Vignesh Chandran
+                  - img [ref=e651]
+            - listitem [ref=e653]:
+              - generic [ref=e655] [cursor=pointer]:
+                - generic [ref=e657]: Muthukumar Sokkalingam
+                - generic [ref=e658]:
+                  - button "Open the conversation Muthukumar Sokkalingam":
+                    - generic: Open the conversation
+                    - generic: Muthukumar Sokkalingam
+                  - paragraph: "Me: want to log in AWS and create a AMI,we have vicky's account .But he is on, leave for one week and hope you know the reason.So if possible can i use your AWS account for this requirement"
+                - button "Close the conversation Muthukumar Sokkalingam" [ref=e660]:
+                  - generic [ref=e661]: Close the conversation Muthukumar Sokkalingam
+                  - img [ref=e663]
+            - listitem [ref=e665]:
+              - generic [ref=e667] [cursor=pointer]:
+                - generic [ref=e669]: Inba Sneka
+                - generic [ref=e670]:
+                  - button "Open the conversation Inba Sneka":
+                    - generic: Open the conversation
+                    - generic: Inba Sneka
+                  - paragraph: "Me: 👍"
+                - button "Close the conversation Inba Sneka" [ref=e672]:
+                  - generic [ref=e673]: Close the conversation Inba Sneka
+                  - img [ref=e675]
+            - listitem [ref=e677]:
+              - generic [ref=e679] [cursor=pointer]:
+                - generic [ref=e681]: Thrilogasundari Badrabagu
+                - generic [ref=e682]:
+                  - button "Open the conversation Thrilogasundari Badrabagu":
+                    - generic: Open the conversation
+                    - generic: Thrilogasundari Badrabagu
+                  - paragraph: "Me: tq sundari"
+                - button "Close the conversation Thrilogasundari Badrabagu" [ref=e684]:
+                  - generic [ref=e685]: Close the conversation Thrilogasundari Badrabagu
+                  - img [ref=e687]
+            - listitem [ref=e689]:
+              - generic [ref=e691] [cursor=pointer]:
+                - generic [ref=e692]:
+                  - generic [ref=e693]: LukeShalom Paka
+                  - generic [ref=e694]:
+                    - generic [ref=e695]: "Presence : Online on Mobile"
+                    - img [ref=e697]
+                - generic [ref=e699]:
+                  - button "Open the conversation LukeShalom Paka":
+                    - generic: Open the conversation
+                    - generic: LukeShalom Paka
+                  - paragraph: "You modified: arey babu"
+                - button "Close the conversation LukeShalom Paka" [ref=e701]:
+                  - generic [ref=e702]: Close the conversation LukeShalom Paka
+                  - img [ref=e704]
+            - listitem [ref=e706]:
+              - generic [ref=e708] [cursor=pointer]:
+                - generic [ref=e710]: Selvarani S
+                - generic [ref=e711]:
+                  - button "Open the conversation Selvarani S":
+                    - generic: Open the conversation
+                    - generic: Selvarani S
+                  - paragraph: "Me: 😔😔😔"
+                - button "Close the conversation Selvarani S" [ref=e713]:
+                  - generic [ref=e714]: Close the conversation Selvarani S
+                  - img [ref=e716]
+            - listitem [ref=e718]:
+              - generic [ref=e720] [cursor=pointer]:
+                - generic [ref=e722]: Gopinath Palanichamy
+                - generic [ref=e723]:
+                  - button "Open the conversation Gopinath Palanichamy":
+                    - generic: Open the conversation
+                    - generic: Gopinath Palanichamy
+                  - paragraph: "Me: okay"
+                - button "Close the conversation Gopinath Palanichamy" [ref=e725]:
+                  - generic [ref=e726]: Close the conversation Gopinath Palanichamy
+                  - img [ref=e728]
+            - listitem [ref=e730]:
+              - generic [ref=e732] [cursor=pointer]:
+                - generic [ref=e734]: Sherly A
+                - generic [ref=e735]:
+                  - button "Open the conversation Sherly A":
+                    - generic: Open the conversation
+                    - generic: Sherly A
+                  - paragraph: "Me: why ka"
+                - button "Close the conversation Sherly A" [ref=e737]:
+                  - generic [ref=e738]: Close the conversation Sherly A
+                  - img [ref=e740]
+            - listitem [ref=e742]:
+              - generic [ref=e744] [cursor=pointer]:
+                - generic [ref=e745]:
+                  - generic [ref=e746]: Jayasankar Parameswaran
+                  - generic [ref=e747]:
+                    - generic [ref=e748]: "Presence : Online"
+                    - img [ref=e750]
+                - generic [ref=e752]:
+                  - button "Open the conversation Jayasankar Parameswaran":
+                    - generic: Open the conversation
+                    - generic: Jayasankar Parameswaran
+                  - paragraph: That I'm also not sure bro.
+                - button "Close the conversation Jayasankar Parameswaran" [ref=e754]:
+                  - generic [ref=e755]: Close the conversation Jayasankar Parameswaran
+                  - img [ref=e757]
+            - listitem [ref=e759]:
+              - generic [ref=e761] [cursor=pointer]:
+                - generic [ref=e763]: Reshma Gajendiran
+                - generic [ref=e764]:
+                  - button "Open the conversation Reshma Gajendiran":
+                    - generic: Open the conversation
+                    - generic: Reshma Gajendiran
+                  - paragraph: Meeting vaa
+                - button "Close the conversation Reshma Gajendiran" [ref=e766]:
+                  - generic [ref=e767]: Close the conversation Reshma Gajendiran
+                  - img [ref=e769]
+            - listitem [ref=e771]:
+              - generic [ref=e773] [cursor=pointer]:
+                - generic [ref=e774]:
+                  - generic [ref=e775]: Mandresh R
+                  - generic [ref=e776]:
+                    - generic [ref=e777]: "Presence : Online"
+                    - img [ref=e779]
+                - generic [ref=e781]:
+                  - button "Open the conversation Mandresh R 1 unread messages":
+                    - generic: Open the conversation
+                    - generic: Mandresh R
+                    - generic: 1 unread messages
+                  - paragraph: Could you reply in the mail?So that the Manager will check with the Security team directly
+                - generic [ref=e782]:
+                  - generic [ref=e783]: "1"
+                  - button "Close the conversation Mandresh R" [ref=e785]:
+                    - generic [ref=e786]: Close the conversation Mandresh R
+                    - img [ref=e788]
+      - toolbar [ref=e790]:
+        - generic [ref=e791]:
+          - 'button "Audio configuration: No microphone available Communications - Microphone (ALE AH 22 U) Communications - Microphone (ALE AH 22 U)Headphones (ALE AH 22 U)" [ref=e793] [cursor=pointer]':
+            - img [ref=e795]
+            - generic [ref=e797]: "Audio configuration: No microphone available Communications - Microphone (ALE AH 22 U) Communications - Microphone (ALE AH 22 U)Headphones (ALE AH 22 U)"
+          - button "Notification center" [ref=e800] [cursor=pointer]:
+            - img [ref=e802]
+            - paragraph [ref=e804]: Notification center
+          - button "Reduce panel" [expanded] [ref=e805] [cursor=pointer]:
+            - img [ref=e807]
+    - main [ref=e809]:
+      - generic [ref=e810]:
+        - generic [ref=e811]:
+          - heading "Follow your channels" [active] [level=2] [ref=e812]
+          - paragraph [ref=e815]: Alcatel-Lucent Enterprise Contractors
+          - button "Discover new channels" [ref=e818] [cursor=pointer]:
+            - generic [ref=e819]: Discover new channels
+        - generic [ref=e822]:
+          - generic [ref=e824]:
+            - generic [ref=e825]:
+              - img [ref=e829] [cursor=pointer]
+              - generic [ref=e831] [cursor=pointer]:
+                - generic [ref=e832]: "Published in channel:"
+                - paragraph [ref=e833]: ALE- TECH TALK
+                - paragraph [ref=e834]:
+                  - generic [ref=e835]: "Publication date:"
+                  - text: Jun 12, 2025 1:06 PM
+                  - generic [ref=e836]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e837]:
+                - generic [ref=e838]: "Category :"
+                - paragraph [ref=e839]: Global
+            - generic [ref=e840]:
+              - paragraph [ref=e842]: Session "Robotic Process Automation" 9th June 2025
+              - generic [ref=e844] [cursor=pointer]:
+                - img [ref=e846]
+                - paragraph [ref=e848]: ALE_TechTalk_RPA.pptx 1.13 MB
+                - button "Advanced options" [ref=e852]:
+                  - generic [ref=e853]:
+                    - img [ref=e855]
+                    - paragraph [ref=e857]: Advanced options
+            - generic [ref=e858]:
+              - button "Like" [ref=e860] [cursor=pointer]:
+                - img [ref=e862]
+                - paragraph: Like
+              - generic [ref=e869]:
+                - img [ref=e871] [cursor=pointer]
+                - generic [ref=e873] [cursor=pointer]: "1"
+          - generic [ref=e875]:
+            - generic [ref=e876]:
+              - img [ref=e880] [cursor=pointer]
+              - generic [ref=e882] [cursor=pointer]:
+                - generic [ref=e883]: "Published in channel:"
+                - paragraph [ref=e884]: ALE- TECH TALK
+                - paragraph [ref=e885]:
+                  - generic [ref=e886]: "Publication date:"
+                  - text: Jun 12, 2025 1:05 PM
+                  - generic [ref=e887]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e888]:
+                - generic [ref=e889]: "Category :"
+                - paragraph [ref=e890]: Global
+            - generic [ref=e891]:
+              - paragraph [ref=e893]: Session "Prompt Engineering" 6th May 2025
+              - generic [ref=e895] [cursor=pointer]:
+                - img [ref=e897]
+                - paragraph [ref=e899]: ALE_Tech Talk_Prompt engineering.pptx 1.14 MB
+                - button "Advanced options" [ref=e903]:
+                  - generic [ref=e904]:
+                    - img [ref=e906]
+                    - paragraph [ref=e908]: Advanced options
+            - generic [ref=e909]:
+              - button "Like" [ref=e911] [cursor=pointer]:
+                - img [ref=e913]
+                - paragraph: Like
+              - paragraph [ref=e921]: Be the first to react
+          - generic [ref=e923]:
+            - generic [ref=e924]:
+              - img [ref=e928] [cursor=pointer]
+              - generic [ref=e930] [cursor=pointer]:
+                - generic [ref=e931]: "Published in channel:"
+                - paragraph [ref=e932]: ALE- TECH TALK
+                - paragraph [ref=e933]:
+                  - generic [ref=e934]: "Publication date:"
+                  - text: Apr 9, 2025 12:27 PM
+                  - generic [ref=e935]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e936]:
+                - generic [ref=e937]: "Category :"
+                - paragraph [ref=e938]: Global
+            - generic [ref=e939]:
+              - paragraph [ref=e941]: Session "Retrieval Augmented Generation AI" 3rd March 2025
+              - generic [ref=e943] [cursor=pointer]:
+                - img [ref=e945]
+                - paragraph [ref=e947]: Retrieval Augmented Generation(AI).pptx 1.16 MB
+                - button "Advanced options" [ref=e951]:
+                  - generic [ref=e952]:
+                    - img [ref=e954]
+                    - paragraph [ref=e956]: Advanced options
+            - generic [ref=e957]:
+              - button "Like" [ref=e959] [cursor=pointer]:
+                - img [ref=e961]
+                - paragraph: Like
+              - paragraph [ref=e969]: Be the first to react
+          - generic [ref=e971]:
+            - generic [ref=e972]:
+              - img [ref=e976] [cursor=pointer]
+              - generic [ref=e978] [cursor=pointer]:
+                - generic [ref=e979]: "Published in channel:"
+                - paragraph [ref=e980]: ALE- TECH TALK
+                - paragraph [ref=e981]:
+                  - generic [ref=e982]: "Publication date:"
+                  - text: Mar 3, 2025 11:10 AM
+                  - generic [ref=e983]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e984]:
+                - generic [ref=e985]: "Category :"
+                - paragraph [ref=e986]: Global
+            - generic [ref=e987]:
+              - paragraph [ref=e989]: Session "AI Powered ChatBots" 13th February 2025
+              - generic [ref=e991] [cursor=pointer]:
+                - img [ref=e993]
+                - paragraph [ref=e995]: AI Powered Chatbots.pptx 2.03 MB
+                - button "Advanced options" [ref=e999]:
+                  - generic [ref=e1000]:
+                    - img [ref=e1002]
+                    - paragraph [ref=e1004]: Advanced options
+            - generic [ref=e1005]:
+              - button "Like" [ref=e1007] [cursor=pointer]:
+                - img [ref=e1009]
+                - paragraph: Like
+              - paragraph [ref=e1017]: Be the first to react
+          - generic [ref=e1019]:
+            - generic [ref=e1020]:
+              - img [ref=e1024] [cursor=pointer]
+              - generic [ref=e1026] [cursor=pointer]:
+                - generic [ref=e1027]: "Published in channel:"
+                - paragraph [ref=e1028]: ALE- TECH TALK
+                - paragraph [ref=e1029]:
+                  - generic [ref=e1030]: "Publication date:"
+                  - text: Dec 11, 2024 12:30 PM
+                  - generic [ref=e1031]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1032]:
+                - generic [ref=e1033]: "Category :"
+                - paragraph [ref=e1034]: Global
+            - generic [ref=e1035]:
+              - paragraph [ref=e1037]: Session "Internet Of Things IOT" 5th December 2024
+              - generic [ref=e1039] [cursor=pointer]:
+                - img [ref=e1041]
+                - paragraph [ref=e1043]: Iot-Internet-of-Things-ppt.pptx 381.20 kB
+                - button "Advanced options" [ref=e1047]:
+                  - generic [ref=e1048]:
+                    - img [ref=e1050]
+                    - paragraph [ref=e1052]: Advanced options
+            - generic [ref=e1053]:
+              - button "Like" [ref=e1055] [cursor=pointer]:
+                - img [ref=e1057]
+                - paragraph: Like
+              - generic [ref=e1064]:
+                - img [ref=e1066] [cursor=pointer]
+                - generic [ref=e1068] [cursor=pointer]: "1"
+          - generic [ref=e1070]:
+            - generic [ref=e1071]:
+              - img [ref=e1075] [cursor=pointer]
+              - generic [ref=e1077] [cursor=pointer]:
+                - generic [ref=e1078]: "Published in channel:"
+                - paragraph [ref=e1079]: ALE- TECH TALK
+                - paragraph [ref=e1080]:
+                  - generic [ref=e1081]: "Publication date:"
+                  - text: Nov 12, 2024 4:06 PM
+                  - generic [ref=e1082]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1083]:
+                - generic [ref=e1084]: "Category :"
+                - paragraph [ref=e1085]: Global
+            - generic [ref=e1086]:
+              - paragraph [ref=e1088]: Session "Machine learning Basics" 12th November 2024
+              - generic [ref=e1090] [cursor=pointer]:
+                - img [ref=e1092]
+                - paragraph [ref=e1094]: Machine learning basics.odp 31.9 kB
+                - button "Advanced options" [ref=e1098]:
+                  - generic [ref=e1099]:
+                    - img [ref=e1101]
+                    - paragraph [ref=e1103]: Advanced options
+            - generic [ref=e1104]:
+              - button "Like" [ref=e1106] [cursor=pointer]:
+                - img [ref=e1108]
+                - paragraph: Like
+              - generic [ref=e1115]:
+                - img [ref=e1117] [cursor=pointer]
+                - generic [ref=e1119] [cursor=pointer]: "1"
+          - generic [ref=e1121]:
+            - generic [ref=e1122]:
+              - img [ref=e1126] [cursor=pointer]
+              - generic [ref=e1128] [cursor=pointer]:
+                - generic [ref=e1129]: "Published in channel:"
+                - paragraph [ref=e1130]: ALE- TECH TALK
+                - paragraph [ref=e1131]:
+                  - generic [ref=e1132]: "Publication date:"
+                  - text: Oct 22, 2024 11:40 AM
+                  - generic [ref=e1133]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1134]:
+                - generic [ref=e1135]: "Category :"
+                - paragraph [ref=e1136]: Global
+            - generic [ref=e1137]:
+              - paragraph [ref=e1139]: Session "AI in CybersecurityI" 21st October 2024
+              - generic [ref=e1141] [cursor=pointer]:
+                - img [ref=e1143]
+                - paragraph [ref=e1145]: AI in Cybersecurity.pptx 1.07 MB
+                - button "Advanced options" [ref=e1149]:
+                  - generic [ref=e1150]:
+                    - img [ref=e1152]
+                    - paragraph [ref=e1154]: Advanced options
+            - generic [ref=e1155]:
+              - button "Like" [ref=e1157] [cursor=pointer]:
+                - img [ref=e1159]
+                - paragraph: Like
+              - generic [ref=e1166]:
+                - img [ref=e1168] [cursor=pointer]
+                - generic [ref=e1170] [cursor=pointer]: "3"
+          - generic [ref=e1172]:
+            - generic [ref=e1173]:
+              - img [ref=e1177] [cursor=pointer]
+              - generic [ref=e1179] [cursor=pointer]:
+                - generic [ref=e1180]: "Published in channel:"
+                - paragraph [ref=e1181]: ALE- TECH TALK
+                - paragraph [ref=e1182]:
+                  - generic [ref=e1183]: "Publication date:"
+                  - text: Sep 30, 2024 3:58 PM
+                  - generic [ref=e1184]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1185]:
+                - generic [ref=e1186]: "Category :"
+                - paragraph [ref=e1187]: Global
+            - generic [ref=e1188]:
+              - paragraph [ref=e1190]: Session "Basic of GEN AI" 30th September 2024
+              - generic [ref=e1192] [cursor=pointer]:
+                - img [ref=e1194]
+                - paragraph [ref=e1196]: Basics_GENAI.pptx 1.37 MB
+                - button "Advanced options" [ref=e1200]:
+                  - generic [ref=e1201]:
+                    - img [ref=e1203]
+                    - paragraph [ref=e1205]: Advanced options
+            - generic [ref=e1206]:
+              - button "Like" [ref=e1208] [cursor=pointer]:
+                - img [ref=e1210]
+                - paragraph: Like
+              - generic [ref=e1217]:
+                - img [ref=e1219] [cursor=pointer]
+                - generic [ref=e1221] [cursor=pointer]: "3"
+          - generic [ref=e1223]:
+            - generic [ref=e1224]:
+              - img [ref=e1228] [cursor=pointer]
+              - generic [ref=e1230] [cursor=pointer]:
+                - generic [ref=e1231]: "Published in channel:"
+                - paragraph [ref=e1232]: ALE- TECH TALK
+                - paragraph [ref=e1233]:
+                  - generic [ref=e1234]: "Publication date:"
+                  - text: Sep 25, 2024 5:08 PM
+                  - generic [ref=e1235]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1236]:
+                - generic [ref=e1237]: "Category :"
+                - paragraph [ref=e1238]: Global
+            - generic [ref=e1239]:
+              - paragraph [ref=e1241]: Session "Evolution of Telecom" 16th September 2024
+              - generic [ref=e1243] [cursor=pointer]:
+                - img [ref=e1245]
+                - paragraph [ref=e1247]: Evolution_of_telecom.pptx 413.54 kB
+                - button "Advanced options" [ref=e1251]:
+                  - generic [ref=e1252]:
+                    - img [ref=e1254]
+                    - paragraph [ref=e1256]: Advanced options
+            - generic [ref=e1257]:
+              - button "Like" [ref=e1259] [cursor=pointer]:
+                - img [ref=e1261]
+                - paragraph: Like
+              - generic [ref=e1268]:
+                - img [ref=e1270] [cursor=pointer]
+                - generic [ref=e1272] [cursor=pointer]: "4"
+          - generic [ref=e1274]:
+            - generic [ref=e1275]:
+              - img [ref=e1279] [cursor=pointer]
+              - generic [ref=e1281] [cursor=pointer]:
+                - generic [ref=e1282]: "Published in channel:"
+                - paragraph [ref=e1283]: ALE- TECH TALK
+                - paragraph [ref=e1284]:
+                  - generic [ref=e1285]: "Publication date:"
+                  - text: Sep 16, 2024 2:38 PM
+                  - generic [ref=e1286]: "Published by:"
+                  - text: "- Bamini Pandian"
+              - generic [ref=e1287]:
+                - generic [ref=e1288]: "Category :"
+                - paragraph [ref=e1289]: Global
+            - generic [ref=e1291]:
+              - paragraph [ref=e1292]: Hi All,
+              - paragraph [ref=e1293]
+              - paragraph [ref=e1294]: We have created this New Channel for Tech Talk event.
+              - paragraph [ref=e1295]
+              - paragraph [ref=e1296]: Request all Team leads to add the team members. (Promoted the role)
+              - paragraph [ref=e1297]
+              - paragraph [ref=e1298]: Further communciations w.r.t Tech Talk would be shared in this Channel.
+              - paragraph [ref=e1299]
+              - paragraph [ref=e1300]: Regards,
+              - paragraph [ref=e1301]: Bamini.
+            - generic [ref=e1302]:
+              - button "Like" [ref=e1304] [cursor=pointer]:
+                - img [ref=e1306]
+                - paragraph: Like
+              - generic [ref=e1313]:
+                - img [ref=e1315] [cursor=pointer]
+                - generic [ref=e1317] [cursor=pointer]: "13"
+        - complementary [ref=e1318]:
+          - generic [ref=e1320]:
+            - generic [ref=e1321]:
+              - generic [ref=e1323]:
+                - img [ref=e1325]
+                - generic [ref=e1327]: Search a channel
+                - textbox "Search a channel" [ref=e1328]
+              - generic [ref=e1329]:
+                - generic [ref=e1330]: Filter List of followed channels
+                - combobox "Filter List of followed channels":
+                  - option "All channels" [selected]
+                  - option "Public channels"
+                  - option "My company channels"
+                  - option "My organization channels"
+                  - option "My channels"
+                - generic [ref=e1331] [cursor=pointer]:
+                  - paragraph [ref=e1335]: All channels
+                  - img [ref=e1337]
+            - list "List of followed channels" [ref=e1340]:
+              - listitem "ALE- TECH TALK" [ref=e1341] [cursor=pointer]:
+                - generic [ref=e1342]:
+                  - img [ref=e1346]
+                  - generic [ref=e1348]:
+                    - paragraph [ref=e1349]: ALE- TECH TALK
+                    - paragraph [ref=e1350]: 141 subscribers
+  - status
+  - alert
+```

@@ -1,0 +1,9 @@
+| Element                | Best locator       |
+| ---------------------- | ------------------ |
+| Text input             | `getByLabel` ⭐     |
+| Dropdown               | `getByLabel` ⭐     |
+| Checkbox / radio       | `getByLabel` ⭐     |
+| Button                 | `getByRole`        |
+| Link                   | `getByRole`        |
+| Placeholder-only field | `getByPlaceholder` |
+| Non-accessible UI      | `getByTestId`      |
