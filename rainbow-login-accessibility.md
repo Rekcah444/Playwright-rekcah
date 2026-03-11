@@ -1,0 +1,50 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - complementary [ref=e7]:
+          - heading "Welcome to Rainbow" [level=1] [ref=e8]
+          - link "Learn more about Rainbow" [ref=e9] [cursor=pointer]:
+            - /url: https://www.openrainbow.com/
+            - img [ref=e10]
+            - generic [ref=e12]: Learn more about Rainbow
+        - main [ref=e13]:
+          - generic [ref=e15]:
+            - heading "Welcome" [level=2] [ref=e32]:
+              - paragraph [ref=e17]: Welcome
+            - paragraph [ref=e18]: Connection information
+            - generic [ref=e33]:
+              - button "Modify the email address" [ref=e34] [cursor=pointer]:
+                - generic [ref=e35]: ramkumar.ravi@al-enterpsie.com
+              - group "Connection information" [ref=e37]:
+                - generic [ref=e38]:
+                  - generic [ref=e39]: Enter your password
+                  - textbox "Enter your password" [ref=e40]:
+                    - /placeholder: Password
+                    - text: Ram@1107
+                - generic [ref=e54]:
+                  - img [ref=e56]
+                  - generic [ref=e58]: Incorrect username or password
+              - button "Forgot your password?" [ref=e42] [cursor=pointer]
+            - generic [ref=e24]:
+              - generic [ref=e44] [cursor=pointer]:
+                - generic [ref=e45]:
+                  - checkbox "Keep my session alive" [checked] [ref=e46]
+                  - img [ref=e47]
+                - generic [ref=e49]: Keep my session alive
+              - button "Connect" [disabled] [active] [ref=e50]:
+                - generic [ref=e27]: Connect
+          - generic [ref=e28]:
+            - button "Don't have an account? Sign up!" [ref=e29] [cursor=pointer]:
+              - generic [ref=e30]: Don't have an account? Sign up!
+            - generic [ref=e51]:
+              - text: "By continuing, you agree to:"
+              - link "the Terms of Service" [ref=e52] [cursor=pointer]:
+                - /url: https://www.al-enterprise.com/en/rainbow/terms-of-service
+              - text: and
+              - link "the Privacy Policy" [ref=e53] [cursor=pointer]:
+                - /url: https://www.al-enterprise.com/en/rainbow/data-privacy
+      - paragraph [ref=e31]: Drops © F.Meyer
+    - paragraph
+  - status
+  - alert

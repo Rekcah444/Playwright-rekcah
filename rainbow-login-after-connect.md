@@ -1,0 +1,138 @@
+- generic [ref=e1]:
+  - generic [ref=e92]:
+    - button "Skip navigation" [ref=e93] [cursor=pointer]
+    - button "Go to main content" [ref=e94] [cursor=pointer]
+    - button "Skip to details" [ref=e95] [cursor=pointer]
+    - banner [ref=e96]:
+      - heading "Welcome to Rainbow" [level=1] [ref=e97]
+      - navigation [ref=e98]:
+        - list [ref=e99]:
+          - list [ref=e100]:
+            - listitem [ref=e101]:
+              - button "Follow your channels" [ref=e102] [cursor=pointer]:
+                - img [ref=e104]
+                - generic [ref=e106]: Follow your channels
+            - listitem [ref=e107]:
+              - button "Collaborate with bubbles" [ref=e108] [cursor=pointer]:
+                - img [ref=e110]
+                - generic [ref=e112]: Collaborate with bubbles
+            - listitem [ref=e113]:
+              - button "Manage your contacts" [ref=e114] [cursor=pointer]:
+                - img [ref=e116]
+                - generic [ref=e118]: Manage your contacts
+            - listitem [ref=e119]:
+              - button "Your calls" [ref=e120] [cursor=pointer]:
+                - img [ref=e122]
+                - generic [ref=e124]: Your calls
+            - listitem [ref=e125]:
+              - button "Your files" [ref=e126] [cursor=pointer]:
+                - img [ref=e128]
+                - generic [ref=e130]: Your files
+            - listitem [ref=e131]:
+              - button "Tasks" [ref=e132] [cursor=pointer]:
+                - img [ref=e134]
+                - generic [ref=e136]: Tasks
+            - listitem [ref=e137]:
+              - button "What's new" [ref=e138] [cursor=pointer]:
+                - img [ref=e140]
+                - generic [ref=e142]: What's new
+            - listitem [ref=e143]:
+              - button "Help Center" [ref=e144] [cursor=pointer]:
+                - img [ref=e146]
+                - generic [ref=e148]: Help Center
+      - 'button "Ramkumar R Presence : Online on Mobile Profile, settings and support" [ref=e154] [cursor=pointer]':
+        - generic [ref=e155]:
+          - generic [ref=e156]: Ramkumar R
+          - generic [ref=e157]:
+            - generic [ref=e158]: "Presence : Online on Mobile"
+            - img [ref=e160]
+        - generic [ref=e162]: Profile, settings and support
+    - generic [ref=e164]:
+      - generic [ref=e165]:
+        - paragraph [ref=e166]
+        - search [ref=e169]:
+          - img [ref=e171]
+          - generic [ref=e173]: People, bubbles...
+          - textbox "People, bubbles..." [ref=e174]
+        - generic [ref=e175]:
+          - generic [ref=e176] [cursor=pointer]:
+            - button "Reduce panel Favorites" [ref=e177]:
+              - img [ref=e179]
+            - heading "Favorites" [level=2] [ref=e181]:
+              - generic [ref=e182]: Favorites
+          - list "Favorites" [ref=e184]:
+            - listitem [ref=e185] [cursor=pointer]:
+              - button "Open the conversation Kavin SELVAGANESH" [ref=e186]:
+                - generic [ref=e187]: Open the conversation
+                - generic [ref=e188]:
+                  - generic [ref=e189]: Kavin SELVAGANESH
+                  - img [ref=e193]
+            - listitem [ref=e195] [cursor=pointer]:
+              - button "Open the conversation ∅ AUB NOV 2025" [ref=e196]:
+                - generic [ref=e197]: Open the conversation
+                - generic [ref=e199]:
+                  - text: ∅
+                  - generic [ref=e200]: AUB NOV 2025
+            - listitem [ref=e201] [cursor=pointer]:
+              - 'button "Open the conversation Delicia Jeslyn Presence : Online on Mobile" [ref=e202]':
+                - generic [ref=e203]: Open the conversation
+                - generic [ref=e204]:
+                  - generic [ref=e205]: Delicia Jeslyn
+                  - generic [ref=e206]:
+                    - generic [ref=e207]: "Presence : Online on Mobile"
+                    - img [ref=e209]
+        - region [ref=e211]:
+          - generic [ref=e213] [cursor=pointer]:
+            - button "Reduce panel Recent conversations" [ref=e214]:
+              - img [ref=e216]
+            - heading "Recent conversations" [level=2] [ref=e218]:
+              - generic [ref=e219]: Recent conversations
+          - list "Recent conversations" [ref=e220]
+      - toolbar [ref=e221]:
+        - generic [ref=e222]:
+          - 'button "Audio configuration: No microphone available" [ref=e224] [cursor=pointer]':
+            - img [ref=e226]
+            - generic [ref=e228]: "Audio configuration: No microphone available"
+          - button "Notification center" [ref=e231] [cursor=pointer]:
+            - img [ref=e233]
+            - paragraph [ref=e235]: Notification center
+          - button "Reduce panel" [expanded] [ref=e236] [cursor=pointer]:
+            - img [ref=e238]
+    - main [ref=e240]:
+      - generic [ref=e241]:
+        - generic [ref=e242]:
+          - heading "Follow your channels" [active] [level=2] [ref=e243]
+          - paragraph [ref=e246]: Alcatel-Lucent Enterprise Contractors
+          - generic [ref=e247]:
+            - button "Discover new channels" [ref=e249] [cursor=pointer]:
+              - generic [ref=e250]: Discover new channels
+            - button "Create a channel" [ref=e252] [cursor=pointer]:
+              - generic [ref=e253]: Create a channel
+        - paragraph [ref=e258]: No post in this channel yet
+        - complementary [ref=e259]:
+          - generic [ref=e261]:
+            - generic [ref=e262]:
+              - generic [ref=e264]:
+                - img [ref=e266]
+                - generic [ref=e268]: Search a channel
+                - textbox "Search a channel" [ref=e269]
+              - generic [ref=e270]:
+                - generic [ref=e271]: Filter List of followed channels
+                - combobox "Filter List of followed channels":
+                  - option "All channels" [selected]
+                  - option "Public channels"
+                  - option "My company channels"
+                  - option "My organization channels"
+                  - option "My channels"
+                - generic [ref=e272] [cursor=pointer]:
+                  - paragraph [ref=e276]: All channels
+                  - img [ref=e278]
+            - list "List of followed channels" [ref=e281]:
+              - listitem "ALE- TECH TALK" [ref=e282] [cursor=pointer]:
+                - generic [ref=e283]:
+                  - img [ref=e287]
+                  - generic [ref=e289]:
+                    - paragraph [ref=e290]: ALE- TECH TALK
+                    - paragraph [ref=e291]: 141 subscribers
+  - status
+  - alert
