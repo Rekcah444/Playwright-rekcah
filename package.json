@@ -1,8 +1,12 @@
 {
   "devDependencies": {
-    "@playwright/test": "^1.58.1"
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.5.0"
   },
   "dependencies": {
-    "ajv": "^8.18.0"
+    "@faker-js/faker": "^10.3.0",
+    "ajv": "^8.18.0",
+    "fs": "^0.0.1-security",
+    "luxon": "^3.7.2"
   }
 }

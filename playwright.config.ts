@@ -13,6 +13,7 @@ export default defineConfig({
         viewport: { width: 1280, height: 720 },
         screenshot:'only-on-failure',
         video:'on-first-retry',
-        trace:'on-first-retry'
+        trace:'on-first-retry',
+        baseURL:"https://restful-booker.herokuapp.com"
     }
 });

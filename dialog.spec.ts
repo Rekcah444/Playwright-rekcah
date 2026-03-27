@@ -2,7 +2,15 @@ import { test,expect,Locator }  from '@playwright/test';
 
 test('dialog usinhg playwright',async({page})=>
     {
-        page.on("dialog",async(dialog)=>
+       
+    
+    await page.goto("https://testautomationpractice.blogspot.com/");
+ 
+    await page.locator("#alertBtn").click();
+
+    await page.waitForTimeout(5000);
+    
+     page.on("dialog",async(dialog)=>
         {
             console.log("Dialog message: ",dialog.message());
             expect(dialog.message()).toContain("I am an alert box!");
@@ -12,12 +20,6 @@ test('dialog usinhg playwright',async({page})=>
             dialog.accept();
         });
         
-    
-    await page.goto("https://testautomationpractice.blogspot.com/");
- 
-    await page.locator("#alertBtn").click();
-
-    await page.waitForTimeout(5000);
 
 });
 

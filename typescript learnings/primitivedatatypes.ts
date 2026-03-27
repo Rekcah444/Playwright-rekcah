@@ -1,23 +1,23 @@
-// let username:string="anonymous";
-// let age:number=25;
-// let isLoggedIn:boolean=true;
-// let hobbies:string[]=["reading","coding","gaming"];
-// let address:{street:string,city:string}= {street:"123 Main St", city:"New York"}
+let username:string="anonymous";
+let age:number=25;
+let isLoggedIn:boolean=true;
+let hobbies:string[]=["reading","coding","gaming"];
+let address:{street:string,city:string}= {street:"123 Main St", city:"New York"}
 
 
-// interface company{
-//     name:string;
-//     place:string;
-//     areacode:number;
-//     isavailable:boolean;
-// }
+interface company{
+    name:string;
+    place:string;
+    areacode:number;
+    isavailable:boolean;
+}
 
-// let  c : company={
-//     name:"tcs",
-//     place:"chennai",
-//     areacode:70,
-//     isavailable:true
-// };
+let  c :company={
+    name:"tcs",
+    place:"chennai",
+    areacode:70,
+    isavailable:true
+};
 
 
 
@@ -33,3 +33,11 @@ person.set('name','anonymous');
 
 person.set("name", "Ravi");
 console.log(person)
+
+
+
+let a=new Set();
+a.add(1);
+a.add(2);
+a.add("none");
+
