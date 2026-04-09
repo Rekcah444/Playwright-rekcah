@@ -11,8 +11,9 @@ test("handle tabs",async()=>{
 
     await parentpage.goto("https://testautomationpractice.blogspot.com/");
 
-    const childpage =await Promise.all([context.waitForEvent('page'),parentpage.getByRole("button",{name:"New Tab"}).click()]);
+    const [childpage] =await Promise.all([context.waitForEvent('page'),parentpage.getByRole("button",{name:"New Tab"}).click()]);
     await parentpage.waitForTimeout(5000);
+    
 
     //switch between 2 pages and get titiles:
     const pages =context.pages();

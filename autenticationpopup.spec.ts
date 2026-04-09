@@ -25,5 +25,4 @@ test("handle popups",async({browser})=>{
 
    await page.waitForTimeout(5000); 
 
-
 });
