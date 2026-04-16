@@ -25,5 +25,5 @@ export const test = base.extend<MyFixtures>({
     await use(page);
 
     // optional teardown
-  },
+  }
 });
