@@ -4,7 +4,7 @@ import{LoggedInPage} from '../searchpage'
 test("testing amazon",async({page})=>{
 
     let lp=new LoggedInPage(page)
-    lp.openingpage("https://amazon.com");
+    lp.openingpage("Amazon");
     lp.clickthesearchbox("#serchbox");
     lp.filliphone("#iphone","iphone")
 });

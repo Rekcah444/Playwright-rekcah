@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@playwright/test": "^1.58.1",
+    "@playwright/test": "^1.59.1",
     "@types/node": "^25.5.0"
   },
   "dependencies": {
@@ -9,7 +9,7 @@
     "fs": "^0.0.1-security",
     "luxon": "^3.7.2"
   },
-  "scripts":{
-    "test":"playwright test --headed"
+  "scripts": {
+    "test": "playwright test --headed"
   }
 }
