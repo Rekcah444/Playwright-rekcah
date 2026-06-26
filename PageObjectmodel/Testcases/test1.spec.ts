@@ -8,3 +8,9 @@ test("testing amazon",async({page})=>{
     lp.clickthesearchbox("#serchbox");
     lp.filliphone("#iphone","iphone")
 });
+
+test("testing amazon",async({page})=>{
+
+    let lp=new homepage(page)
+    hp.login("admin","letacla")
+});
